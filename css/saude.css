@@ -1,17 +1,16 @@
-/* PÁGINA INFRAESTRUTURA */
-
-.hero-infraestrutura{
+/* PÁGINA SAÚDE */
+.hero-saude{
     text-align: center;
     margin-bottom: 35px;
 }
 
-.hero-infraestrutura h2{
+.hero-saude h2{
     font-size: 42px;
     margin-bottom: 20px;
     color: #00111f;
 }
 
-.hero-infraestrutura p{
+.hero-saude p{
     max-width: 900px;
     margin: 0 auto;
     line-height: 1.75;

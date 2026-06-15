@@ -1,0 +1,39 @@
+
+.imagem-do-lado {
+    align-items: center;
+
+}
+
+.sobre-principal {
+    margin-right: 40px;
+    padding: 20px;
+    background-color: rgba(248, 201, 143, 0.445);
+    color: #00111f;
+    display: flex;
+    gap: 50px;
+    border-radius: 9%;
+    box-shadow: 0 4px 15px rgba(5, 8, 0, 0.582);
+}
+
+.sobre-principal h1 {
+    color: #0e910e;
+}
+.card-sobre {
+    width: 80%;
+    margin: 40px auto;
+    padding: 25px;
+    background-color: #044c58;
+    color: #f5f3f3;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(5, 8, 0, 0.582);
+    line-height: 1.8;
+}
+
+
+
+.card-sobre h1,
+.card-sobre h2,
+.card-sobre h3 {
+    color: #00c853;
+    margin-bottom: 15px;
+}
